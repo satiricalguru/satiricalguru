@@ -1,17 +1,17 @@
 <div align="center">
 
-<a href="https://github.com/satiricalguru"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,45:414868,100:7aa2f7&height=220&section=header&text=JayDev&fontSize=68&fontColor=c0caf5&desc=Build%20agents%20%C2%B7%20Automate%20the%20boring%20stuff%20%C2%B7%20Ship%20in%20public&descSize=20&descAlignY=78" width="100%"></a>
+<a href="https://github.com/satiricalguru"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f141c,50:212d3b,100:3c526b&height=220&section=header&text=JayDev&fontSize=68&fontColor=d6e3f2&desc=Build%20agents%20%C2%B7%20Automate%20the%20boring%20stuff%20%C2%B7%20Ship%20in%20public&descSize=20&descAlignY=78" width="100%"></a>
 
 <a href="https://github.com/satiricalguru">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=700&color=7AA2F7&center=true&vCenter=true&width=760&lines=%F0%9F%94%90+CTF+grinder+%C2%B7+%F0%9F%8C%90+App+%26+Web+Developer;%F0%9F%A4%96+AI+Tinkerer+%26+Local+LLM+Builder;Building+Forge+%C2%B7+VS+Code+for+Local+LLMs;Voice+conversion+%26+real-time+audio+DSP" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=700&color=3c526b&center=true&vCenter=true&width=760&lines=%F0%9F%94%90+CTF+grinder+%C2%B7+%F0%9F%8C%90+App+%26+Web+Developer;%F0%9F%A4%96+AI+Tinkerer+%26+Local+LLM+Builder;Building+Forge+%C2%B7+VS+Code+for+Local+LLMs;Voice+conversion+%26+real-time+audio+DSP" alt="Typing SVG">
 </a>
 
 <br>
 
-<a href="https://github.com/satiricalguru"><img src="https://komarev.com/ghpvc/?username=satiricalguru&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS"></a>
-<a href="https://github.com/satiricalguru?tab=followers"><img src="https://img.shields.io/github/followers/satiricalguru?style=for-the-badge&logo=github&labelColor=1a1b27&color=7aa2f7"></a>
-<img src="https://img.shields.io/badge/India-9ece6a?style=for-the-badge&labelColor=1a1b27">
-<img src="https://img.shields.io/badge/2026-Local%20LLM%20tooling-ff9e64?style=for-the-badge&labelColor=1a1b27&logo=openai&logoColor=ff9e64">
+<a href="https://github.com/satiricalguru"><img src="https://komarev.com/ghpvc/?username=satiricalguru&style=for-the-badge&color=3c526b&label=PROFILE+VIEWS"></a>
+<a href="https://github.com/satiricalguru?tab=followers"><img src="https://img.shields.io/github/followers/satiricalguru?style=for-the-badge&logo=github&labelColor=0f141c&color=3c526b"></a>
+<img src="https://img.shields.io/badge/India-9ece6a?style=for-the-badge&labelColor=0f141c">
+<img src="https://img.shields.io/badge/2026-Local%20LLM%20tooling-ff9e64?style=for-the-badge&labelColor=0f141c&logo=openai&logoColor=ff9e64">
 
 </div>
 
@@ -154,7 +154,7 @@ timeline
 
 *"Securing the logic, breaking the binaries, and building the future of local AI."*
 
-<a href="https://github.com/satiricalguru"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,55:414868,100:1a1b27&height=130&section=footer" width="100%"></a>
+<a href="https://github.com/satiricalguru"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:3c526b,50:212d3b,100:0f141c&height=130&section=footer" width="100%"></a>
 
 </div>
  
