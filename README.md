@@ -152,7 +152,7 @@ timeline
 
 <br><br>
 
-*"The walls you hit are just roads waiting to be built for someone else."*
+*"Securing the logic, breaking the binaries, and building the future of local AI."*
 
 <a href="https://github.com/satiricalguru"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,55:414868,100:1a1b27&height=130&section=footer" width="100%"></a>
 
