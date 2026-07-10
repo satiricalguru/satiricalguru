@@ -157,3 +157,4 @@ timeline
 <a href="https://github.com/satiricalguru"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,55:414868,100:1a1b27&height=130&section=footer" width="100%"></a>
 
 </div>
+ 
