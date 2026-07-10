@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/satiricalguru"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f141c,50:212d3b,100:3c526b&height=220&section=header&text=JayDev&fontSize=68&fontColor=d6e3f2&desc=Build%20agents%20%C2%B7%20Automate%20the%20boring%20stuff%20%C2%B7%20Ship%20in%20public&descSize=20&descAlignY=78" width="100%"></a>
+<a href="https://github.com/satiricalguru"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f141c,50:212d3b,100:3c526b&height=220&section=header&text=Jatin Dev&fontSize=68&fontColor=d6e3f2&desc=Build%20agents%20%C2%B7%20Automate%20the%20boring%20stuff%20%C2%B7%20Ship%20in%20public&descSize=20&descAlignY=78" width="100%"></a>
 
 <a href="https://github.com/satiricalguru">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=700&color=3c526b&center=true&vCenter=true&width=760&lines=%F0%9F%94%90+CTF+grinder+%C2%B7+%F0%9F%8C%90+App+%26+Web+Developer;%F0%9F%A4%96+AI+Tinkerer+%26+Local+LLM+Builder;Building+Forge+%C2%B7+VS+Code+for+Local+LLMs;Voice+conversion+%26+real-time+audio+DSP" alt="Typing SVG">
