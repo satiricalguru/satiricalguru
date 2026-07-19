@@ -9,7 +9,7 @@
 <br>
 
 <a href="https://github.com/satiricalguru"><img src="https://komarev.com/ghpvc/?username=satiricalguru&style=for-the-badge&color=3c526b&label=PROFILE+VIEWS"></a>
-<a href="https://github.com/satiricalguru?tab=followers"><img src="https://img.shields.io/github/followers/satiricalguru?style=for-the-badge&logo=github&labelColor=0f141c&color=3c526b&label=FOLLOWERS"></a>
+<a href="https://github.com/satiricalguru?tab=followers"><img src="https://img.shields.io/badge/Followers-GitHub-3c526b?style=for-the-badge&logo=github&labelColor=0f141c"></a>
 <img src="https://img.shields.io/badge/India-9ece6a?style=for-the-badge&labelColor=0f141c">
 <img src="https://img.shields.io/badge/2026-Local%20LLM%20tooling-ff9e64?style=for-the-badge&labelColor=0f141c&logo=openai&logoColor=ff9e64">
 
