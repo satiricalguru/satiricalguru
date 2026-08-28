@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/satiricalguru"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f141c,50:212d3b,100:3c526b&height=220&section=header&text=Jatin%20Pandey&fontSize=68&fontColor=d6e3f2&desc=Building%20Antigravity%20%C2%B7%20Local%20AI%20%C2%B7%20Real-time%20Audio%20DSP%20%C2%B7%20Native%20Systems&descSize=19&descAlignY=78" width="100%"></a>
+<a href="https://github.com/satiricalguru"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f141c,50:212d3b,100:3c526b&height=220&section=header&text=Jatin%20Pandey&fontSize=68&fontColor=d6e3f2&desc=Building%20using%20Antigravity%20%C2%B7%20Local%20AI%20%C2%B7%20Real-time%20Audio%20DSP%20%C2%B7%20Native%20Systems&descSize=19&descAlignY=78" width="100%"></a>
 
 <a href="https://github.com/satiricalguru">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=700&color=3c526b&center=true&vCenter=true&width=780&lines=%F0%9F%8C%8C+Building+Vantage+%C2%B7+Native+Live+Wallpapers+for+macOS;%F0%9F%A4%96+Building+Forge+%C2%B7+VS+Code+for+Local+LLMs;%F0%9F%91%BB+Building+Wraith+%C2%B7+AI+Reverse-Engineering+Co-Pilot;%F0%9F%8E%99%EF%B8%8F+Real-time+Voice+Conversion+%26+Low-Latency+Audio+DSP;%E2%9A%A1+Agent+Swarms%2C+Verdict+Arena+%26+Local+AI+Tooling" alt="Typing SVG">
@@ -12,6 +12,7 @@
 <a href="https://github.com/satiricalguru?tab=followers"><img src="https://img.shields.io/github/followers/satiricalguru?style=for-the-badge&logo=github&labelColor=0f141c&color=3c526b"></a>
 <img src="https://img.shields.io/badge/India-9ece6a?style=for-the-badge&labelColor=0f141c">
 <img src="https://img.shields.io/badge/2026-Local%20AI%2C%20Systems%20%26%20Audio%20DSP-ff9e64?style=for-the-badge&labelColor=0f141c&logo=openai&logoColor=ff9e64">
+<a href="https://linkedin.com/in/jatin-pandey-66328141a"><img src="https://img.shields.io/badge/LinkedIn-Jatin%20Pandey-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f141c"></a>
 <a href="https://x.com/JayDevSG"><img src="https://img.shields.io/badge/X-@JayDevSG-1da1f2?style=for-the-badge&logo=x&logoColor=white&labelColor=0f141c"></a>
 <a href="mailto:jatinjio1212@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f141c"></a>
 
@@ -21,7 +22,7 @@
 
 ## 🧭 About me
 
-- 🛠️ Independent systems & AI engineer crafting **Antigravity** — an interconnected ecosystem of high-performance desktop applications, native macOS integrations, real-time DSP audio pipelines, and local AI agent architectures.
+- 🛠️ Independent systems & AI engineer building using **Antigravity** — an interconnected ecosystem of high-performance desktop applications, native macOS integrations, real-time DSP audio pipelines, and local AI agent architectures.
 - 🌌 Shipping **[Vantage](https://github.com/satiricalguru/Vantage)** — a high-performance native live & video wallpaper engine for macOS with lock screen sync and native screen saver integration.
 - 🤖 Building **[Forge](https://github.com/satiricalguru/Forge)** — a local-first, privacy-respecting AI IDE forked from VS Code optimized for local LLM engines (Ollama, LM Studio, llama.cpp, vLLM).
 - 👻 Architecting **[Wraith](https://github.com/satiricalguru/Wraith)** — a grounding-first autonomous AI reverse-engineering co-pilot for Ghidra & Cutter with an 11-signal binary parity engine.
@@ -29,7 +30,7 @@
 - ⚡ Creating autonomous agent infrastructure — **[Agents-skills](https://github.com/satiricalguru/Agents-skills)**, **[Agent-Swarm](https://github.com/satiricalguru/Agent-Swarm)** (LLM concurrency stress-tester), and **[Verdict](https://github.com/satiricalguru/Verdict)** (AI live web & code benchmark platform).
 - 🔍 Most projects start as *"let me just inspect this codebase"* and end as a full native rewrite with a shipped release.
 
-> 🎯 **2026 Focus** — Delivering low-latency local inference tooling, modular agent swarms, and fluid native desktop experiences. 🚀
+> 🎯 **2026 Focus** — Delivering low-latency local inference tooling, modular agent swarms, and fluid native desktop experiences.
 
 ---
 
