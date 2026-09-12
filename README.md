@@ -180,6 +180,54 @@ timeline
 
 ---
 
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<table border="0">
+<tr>
+<td align="center" width="20%">
+  <a href="https://github.com/satiricalguru?tab=achievements&achievement=galaxy-brain">
+    <img src="https://github.githubassets.com/assets/galaxy-brain-default-847262c21056.png" width="70" alt="Galaxy Brain" /><br>
+    <b>Galaxy Brain</b><br>
+    <sub>Accepted Answers</sub>
+  </a>
+</td>
+<td align="center" width="20%">
+  <a href="https://github.com/satiricalguru?tab=achievements&achievement=pull-shark">
+    <img src="https://github.githubassets.com/assets/pull-shark-bronze-a37accb528d1.png" width="70" alt="Pull Shark" /><br>
+    <b>Pull Shark (x2/x3)</b><br>
+    <sub>128+ Merged PRs</sub>
+  </a>
+</td>
+<td align="center" width="20%">
+  <a href="https://github.com/satiricalguru?tab=achievements&achievement=pair-extraordinaire">
+    <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="70" alt="Pair Extraordinaire" /><br>
+    <b>Pair Extraordinaire</b><br>
+    <sub>Co-authored Merges</sub>
+  </a>
+</td>
+<td align="center" width="20%">
+  <a href="https://github.com/satiricalguru?tab=achievements&achievement=yolo">
+    <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="70" alt="YOLO" /><br>
+    <b>YOLO</b><br>
+    <sub>Merge Without Review</sub>
+  </a>
+</td>
+<td align="center" width="20%">
+  <a href="https://github.com/satiricalguru?tab=achievements&achievement=quickdraw">
+    <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="70" alt="Quickdraw" /><br>
+    <b>Quickdraw</b><br>
+    <sub>Rapid Issue Close</sub>
+  </a>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## 📈 Stats & Activity
 
 <div align="center">
