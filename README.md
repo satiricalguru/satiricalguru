@@ -192,7 +192,7 @@ timeline
   <a href="https://github.com/satiricalguru?tab=achievements&achievement=galaxy-brain">
     <img src="https://raw.githubusercontent.com/The-Shivam-garg/Github-badges/main/images/tiers/galaxy-brain-gold.png" width="80" alt="Galaxy Brain (Gold x4)" /><br>
     <b>Galaxy Brain (Gold x4)</b><br>
-    <sub>33 Accepted Answers</sub>
+    <sub>36 Accepted Answers</sub>
   </a>
 </td>
 <td align="center" width="20%">
