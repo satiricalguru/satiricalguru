@@ -59,6 +59,8 @@ timeline
 <a href="https://github.com/satiricalguru/RVC-Voicechanger"><img src="https://img.shields.io/github/stars/satiricalguru/RVC-Voicechanger?style=for-the-badge&logo=github&labelColor=1a1b27&color=9ece6a&label=RVC"></a>
 <a href="https://github.com/satiricalguru/Verdict"><img src="https://img.shields.io/github/stars/satiricalguru/Verdict?style=for-the-badge&logo=github&labelColor=1a1b27&color=2ac3de&label=VERDICT"></a>
 <a href="https://github.com/satiricalguru/Origin"><img src="https://img.shields.io/github/stars/satiricalguru/Origin?style=for-the-badge&logo=github&labelColor=1a1b27&color=f7768e&label=ORIGIN"></a>
+<a href="https://github.com/satiricalguru/BeatriceVST-voicechanger"><img src="https://img.shields.io/github/stars/satiricalguru/BeatriceVST-voicechanger?style=for-the-badge&logo=github&labelColor=1a1b27&color=ff79c6&label=BEATRICE-VST%20(8%2F16%20%E2%AD%90)"></a>
+<a href="https://github.com/satiricalguru/Jarvis"><img src="https://img.shields.io/github/stars/satiricalguru/Jarvis?style=for-the-badge&logo=github&labelColor=1a1b27&color=50fa7b&label=JARVIS%20(7%2F16%20%E2%AD%90)"></a>
 
 </div>
 
@@ -188,37 +190,37 @@ timeline
 <tr>
 <td align="center" width="20%">
   <a href="https://github.com/satiricalguru?tab=achievements&achievement=galaxy-brain">
-    <img src="https://github.githubassets.com/assets/galaxy-brain-default-847262c21056.png" width="70" alt="Galaxy Brain" /><br>
-    <b>Galaxy Brain</b><br>
-    <sub>Accepted Answers</sub>
+    <img src="https://raw.githubusercontent.com/The-Shivam-garg/Github-badges/main/images/tiers/galaxy-brain-gold.png" width="80" alt="Galaxy Brain (Gold x4)" /><br>
+    <b>Galaxy Brain (Gold x4)</b><br>
+    <sub>33 Accepted Answers</sub>
   </a>
 </td>
 <td align="center" width="20%">
   <a href="https://github.com/satiricalguru?tab=achievements&achievement=pull-shark">
-    <img src="https://github.githubassets.com/assets/pull-shark-bronze-a37accb528d1.png" width="70" alt="Pull Shark" /><br>
-    <b>Pull Shark (x2/x3)</b><br>
-    <sub>128+ Merged PRs</sub>
+    <img src="https://raw.githubusercontent.com/The-Shivam-garg/Github-badges/main/images/tiers/pull-shark-silver.png" width="80" alt="Pull Shark (Silver x3)" /><br>
+    <b>Pull Shark (Silver x3)</b><br>
+    <sub>258 Merged PRs</sub>
   </a>
 </td>
 <td align="center" width="20%">
   <a href="https://github.com/satiricalguru?tab=achievements&achievement=pair-extraordinaire">
-    <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="70" alt="Pair Extraordinaire" /><br>
-    <b>Pair Extraordinaire</b><br>
-    <sub>Co-authored Merges</sub>
+    <img src="https://raw.githubusercontent.com/The-Shivam-garg/Github-badges/main/images/tiers/pair-extraordinaire-gold.png" width="80" alt="Pair Extraordinaire (Gold x4)" /><br>
+    <b>Pair Extraordinaire (Gold x4)</b><br>
+    <sub>105 Co-authored Merges</sub>
   </a>
 </td>
 <td align="center" width="20%">
   <a href="https://github.com/satiricalguru?tab=achievements&achievement=yolo">
-    <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="70" alt="YOLO" /><br>
+    <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="80" alt="YOLO" /><br>
     <b>YOLO</b><br>
-    <sub>Merge Without Review</sub>
+    <sub>Merged Without Review</sub>
   </a>
 </td>
 <td align="center" width="20%">
   <a href="https://github.com/satiricalguru?tab=achievements&achievement=quickdraw">
-    <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="70" alt="Quickdraw" /><br>
+    <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="80" alt="Quickdraw" /><br>
     <b>Quickdraw</b><br>
-    <sub>Rapid Issue Close</sub>
+    <sub>Closed Within 5 Min</sub>
   </a>
 </td>
 </tr>
