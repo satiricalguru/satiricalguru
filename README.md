@@ -180,6 +180,28 @@ timeline
 
 <br><br>
 
+<br>
+<b>⚡ AI Coding Agents & Autonomous Environments</b>
+<br><br>
+
+<p align="center">
+  <a href="https://antigravity.google" title="Google Antigravity IDE">
+    <img src="https://raw.githubusercontent.com/satiricalguru/satiricalguru/main/assets/icons/antigravity.png" width="50" height="50" alt="Google Antigravity IDE" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://opencode.ai" title="OpenCode">
+    <img src="https://raw.githubusercontent.com/satiricalguru/satiricalguru/main/assets/icons/opencode.png" width="50" height="50" alt="OpenCode" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://openai.com" title="OpenAI Codex">
+    <img src="https://raw.githubusercontent.com/satiricalguru/satiricalguru/main/assets/icons/codex.png" width="50" height="50" alt="OpenAI Codex" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://anthropic.com/claude" title="Claude">
+    <img src="https://raw.githubusercontent.com/satiricalguru/satiricalguru/main/assets/icons/claude.png" width="50" height="50" alt="Claude" />
+  </a>
+</p>
+
 <p align="center">
   <a href="https://antigravity.google"><img src="https://img.shields.io/badge/Google%20Antigravity-IDE-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0f141c" alt="Google Antigravity IDE" /></a>
   <a href="https://opencode.ai"><img src="https://img.shields.io/badge/OpenCode-AI%20Agent-00DC82?style=for-the-badge&logo=terminal&logoColor=white&labelColor=0f141c" alt="OpenCode" /></a>
