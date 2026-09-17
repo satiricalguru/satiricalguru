@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/satiricalguru"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f141c,50:212d3b,100:3c526b&height=220&section=header&text=Jatin%20Pandey&fontSize=68&fontColor=d6e3f2&desc=Building%20using%20Antigravity%20%C2%B7%20Local%20AI%20%C2%B7%20Real-time%20Audio%20DSP%20%C2%B7%20Native%20Systems&descSize=19&descAlignY=78" width="100%"></a>
+<a href="https://github.com/satiricalguru"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f141c,50:212d3b,100:3c526b&height=220&section=header&text=Jatin%20Pandey&fontSize=68&fontColor=d6e3f2&desc=Building%20using%20AI%20%C2%B7%20Local%20AI%20%C2%B7%20Real-time%20Audio%20DSP%20%C2%B7%20Native%20Systems&descSize=19&descAlignY=78" width="100%"></a>
 
 <a href="https://github.com/satiricalguru">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=700&color=3c526b&center=true&vCenter=true&width=780&lines=%F0%9F%8C%8C+Building+Vantage+%C2%B7+Native+Live+Wallpapers+for+macOS;%F0%9F%A4%96+Building+Forge+%C2%B7+VS+Code+for+Local+LLMs;%F0%9F%91%BB+Building+Wraith+%C2%B7+AI+Reverse-Engineering+Co-Pilot;%F0%9F%8E%99%EF%B8%8F+Real-time+Voice+Conversion+%26+Low-Latency+Audio+DSP;%E2%9A%A1+Agent+Swarms%2C+Verdict+Arena+%26+Local+AI+Tooling" alt="Typing SVG">
@@ -22,7 +22,7 @@
 
 ## 🧭 About me
 
-- 🛠️ Independent systems & AI engineer building using **Antigravity** — an interconnected ecosystem of high-performance desktop applications, native macOS integrations, real-time DSP audio pipelines, and local AI agent architectures.
+- 🛠️ Independent systems & AI engineer building using **AI** — an interconnected ecosystem of high-performance desktop applications, native macOS integrations, real-time DSP audio pipelines, and local AI agent architectures.
 - 🌌 Shipping **[Vantage](https://github.com/satiricalguru/Vantage)** — a high-performance native live & video wallpaper engine for macOS with lock screen sync and native screen saver integration.
 - 🤖 Building **[Forge](https://github.com/satiricalguru/Forge)** — a local-first, privacy-respecting AI IDE forked from VS Code optimized for local LLM engines (Ollama, LM Studio, llama.cpp, vLLM).
 - 👻 Architecting **[Wraith](https://github.com/satiricalguru/Wraith)** — a grounding-first autonomous AI reverse-engineering co-pilot for Ghidra & Cutter with an 11-signal binary parity engine.
