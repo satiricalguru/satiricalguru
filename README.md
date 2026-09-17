@@ -178,6 +178,15 @@ timeline
 <br>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pytorch,docker,sqlite,html,css,tailwind,git,github,vscode,apple&perline=10" /></a>
 
+<br><br>
+
+<p align="center">
+  <a href="https://antigravity.google"><img src="https://img.shields.io/badge/Google%20Antigravity-IDE-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0f141c" alt="Google Antigravity IDE" /></a>
+  <a href="https://opencode.ai"><img src="https://img.shields.io/badge/OpenCode-AI%20Agent-00DC82?style=for-the-badge&logo=terminal&logoColor=white&labelColor=0f141c" alt="OpenCode" /></a>
+  <a href="https://openai.com"><img src="https://img.shields.io/badge/OpenAI%20Codex-Coding%20Agent-00A67E?style=for-the-badge&logo=openai&logoColor=white&labelColor=0f141c" alt="OpenAI Codex" /></a>
+  <a href="https://anthropic.com/claude"><img src="https://img.shields.io/badge/Claude-Anthropic-D97757?style=for-the-badge&logo=claude&logoColor=white&labelColor=0f141c" alt="Claude" /></a>
+</p>
+
 </div>
 
 ---
