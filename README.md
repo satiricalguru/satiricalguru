@@ -290,11 +290,14 @@ timeline
 </a>
 </td>
 </tr>
-</table>
-
+<tr>
+<td align="center" colspan="2">
 <a href="https://github.com/satiricalguru">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=satiricalguru&layout=compact&theme=tokyo-night&hide_border=true&bg_color=0f141c&title_color=7dcfff&text_color=9aa5ce" width="100%" alt="Top Languages">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=satiricalguru&layout=compact&theme=tokyo-night&hide_border=true&bg_color=0f141c&title_color=7dcfff&text_color=9aa5ce" width="380" alt="Top Languages">
 </a>
+</td>
+</tr>
+</table>
 
 </div>
 
