@@ -286,7 +286,7 @@ timeline
 </td>
 <td align="center" width="50%">
 <a href="https://github.com/satiricalguru">
-  <img src="https://streak-stats.demolab.com/?user=satiricalguru&theme=tokyo-night&hide_border=true&background=0F141C&ring=7DCFFF&fire=FF9E64&currStreakLabel=7DCFFF" width="100%" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com/?user=satiricalguru&theme=tokyo-night&hide_border=true&background=0F141C&stroke=212D3B&ring=7DCFFF&fire=FF9E64&currStreakNum=7DCFFF&currStreakLabel=7DCFFF&sideNums=D6E3F2&sideLabels=9AA5CE&dates=7982A9" width="100%" alt="GitHub Streak">
 </a>
 </td>
 </tr>
