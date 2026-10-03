@@ -12,7 +12,7 @@
 <a href="https://github.com/satiricalguru?tab=followers"><img src="https://img.shields.io/github/followers/satiricalguru?style=for-the-badge&logo=github&labelColor=0f141c&color=3c526b"></a>
 <img src="https://img.shields.io/badge/India-9ece6a?style=for-the-badge&labelColor=0f141c">
 <img src="https://img.shields.io/badge/2026-Systems%2C%20Local%20AI%20%26%20Audio%20DSP-ff9e64?style=for-the-badge&labelColor=0f141c&logo=openai&logoColor=ff9e64">
-<a href="https://satiricalguru.github.io/"><img src="https://img.shields.io/badge/Portfolio-satiricalguru.github.io-c41226?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0f141c"></a>
+<a href="https://satiricalguru.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-satiricalguru.vercel.app-c41226?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f141c"></a>
 <a href="https://linkedin.com/in/jatin-pandey-66328141a"><img src="https://img.shields.io/badge/LinkedIn-Jatin%20Pandey-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f141c"></a>
 <a href="https://x.com/JayDevSG"><img src="https://img.shields.io/badge/X-@JayDevSG-1da1f2?style=for-the-badge&logo=x&logoColor=white&labelColor=0f141c"></a>
 <a href="mailto:jatinjio1212@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f141c"></a>
@@ -23,7 +23,7 @@
 
 ## 🧭 About me
 
-> 🌸 **Portfolio →** [satiricalguru.github.io](https://satiricalguru.github.io/)
+> 🌸 **Portfolio →** [satiricalguru.vercel.app](https://satiricalguru.vercel.app/)
 
 - 🛠️ Independent systems & AI engineer building using **AI** — an interconnected ecosystem of high-performance desktop applications, native macOS integrations, real-time DSP audio pipelines, and local AI agent architectures.
 - 🌌 Shipping **[Vantage](https://github.com/satiricalguru/Vantage)** — a high-performance native live & video wallpaper engine for macOS with lock screen sync and native screen saver integration.
