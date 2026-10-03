@@ -1,195 +1,187 @@
 <div align="center">
 
-<a href="https://github.com/satiricalguru"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f141c,50:212d3b,100:3c526b&height=220&section=header&text=Jatin%20Pandey&fontSize=68&fontColor=d6e3f2&desc=Building%20using%20AI%20%C2%B7%20Local%20AI%20%C2%B7%20Real-time%20Audio%20DSP%20%C2%B7%20Native%20Systems&descSize=19&descAlignY=78" width="100%"></a>
+<a href="https://satiricalguru.vercel.app/"><img src="assets/higanbana-header.svg" width="100%" alt="Jatin Pandey — spider lilies blooming white, then turning red"></a>
 
-<a href="https://github.com/satiricalguru">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=700&color=3c526b&center=true&vCenter=true&width=800&lines=%F0%9F%8C%8C+Building+Vantage+%C2%B7+Native+Live+Wallpapers+for+macOS;%F0%9F%A4%96+Building+Forge+%C2%B7+Local-First+VS+Code+for+Offline+LLMs;%F0%9F%94%92+Building+SynthID-Remover+%C2%B7+Local+AI+Watermark+%26+C2PA+Stripper;%F0%9F%91%BB+Building+Wraith+%C2%B7+AI+Reverse-Engineering+Co-Pilot;%F0%9F%8E%99%EF%B8%8F+Beatrice+%26+RVC+Voice+Conversion+%C2%B7+10ms+Audio+DSP;%E2%9A%A1+Agent+Swarms%2C+Fast-Jev-Agents+%26+Verdict+Arena" alt="Typing SVG">
-</a>
+<a href="https://satiricalguru.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=Shippori+Mincho&weight=500&size=22&duration=2600&pause=800&color=E01B34&center=true&vCenter=true&width=820&lines=%E5%BD%BC%E5%B2%B8%E8%8A%B1+%E2%80%94+white+flowers%2C+turning+red.;Local-first+AI+%C2%B7+native+desktop+%C2%B7+real-time+audio;CTF+grinder+%C2%B7+reverse+engineer+%C2%B7+AI+tinkerer;1000+%E2%88%92+7+%3D+993...+986...+979...;Building+things%2C+breaking+things." alt="Typing intro"></a>
 
-<br>
-
-<a href="https://github.com/satiricalguru"><img src="https://komarev.com/ghpvc/?username=satiricalguru&style=for-the-badge&color=3c526b&labelColor=0f141c&label=PROFILE+VIEWS"></a>
-<a href="https://github.com/satiricalguru?tab=followers"><img src="https://img.shields.io/github/followers/satiricalguru?style=for-the-badge&logo=github&labelColor=0f141c&color=3c526b"></a>
-<img src="https://img.shields.io/badge/India-9ece6a?style=for-the-badge&labelColor=0f141c">
-<img src="https://img.shields.io/badge/2026-Systems%2C%20Local%20AI%20%26%20Audio%20DSP-ff9e64?style=for-the-badge&labelColor=0f141c&logo=openai&logoColor=ff9e64">
-<a href="https://satiricalguru.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-satiricalguru.vercel.app-c41226?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f141c"></a>
-<a href="https://linkedin.com/in/jatin-pandey-66328141a"><img src="https://img.shields.io/badge/LinkedIn-Jatin%20Pandey-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f141c"></a>
-<a href="https://x.com/JayDevSG"><img src="https://img.shields.io/badge/X-@JayDevSG-1da1f2?style=for-the-badge&logo=x&logoColor=white&labelColor=0f141c"></a>
-<a href="mailto:jatinjio1212@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f141c"></a>
+<p>
+<a href="https://satiricalguru.vercel.app/"><img src="https://img.shields.io/badge/%E2%9C%BF_ENTER_THE_FIELD-satiricalguru.vercel.app-c41226?style=for-the-badge&labelColor=060505" alt="Portfolio"></a>
+</p>
+<p>
+<a href="https://github.com/satiricalguru?tab=followers"><img src="https://img.shields.io/github/followers/satiricalguru?style=flat-square&logo=github&labelColor=060505&color=c41226&label=followers"></a>
+<a href="https://github.com/satiricalguru"><img src="https://komarev.com/ghpvc/?username=satiricalguru&style=flat-square&color=c41226&label=souls+passed+by"></a>
+<a href="https://linkedin.com/in/jatin-pandey-66328141a"><img src="https://img.shields.io/badge/LinkedIn-Jatin_Pandey-ede7df?style=flat-square&logo=linkedin&logoColor=ede7df&labelColor=060505"></a>
+<a href="https://x.com/JayDevSG"><img src="https://img.shields.io/badge/X-@JayDevSG-ede7df?style=flat-square&logo=x&logoColor=ede7df&labelColor=060505"></a>
+<a href="mailto:jatinjio1212@gmail.com"><img src="https://img.shields.io/badge/Mail-jatinjio1212-ede7df?style=flat-square&logo=gmail&logoColor=ede7df&labelColor=060505"></a>
+<img src="https://img.shields.io/badge/Open_to-work-c41226?style=flat-square&labelColor=060505">
+</p>
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="">
 
-## 🧭 About me
+## 序 &nbsp;Prologue
 
-> 🌸 **Portfolio →** [satiricalguru.vercel.app](https://satiricalguru.vercel.app/)
+<img align="right" width="160" src="https://avatars.githubusercontent.com/u/227462757?v=4&s=320" alt="Jatin Pandey" style="border-radius:50%">
 
-- 🛠️ Independent systems & AI engineer building using **AI** — an interconnected ecosystem of high-performance desktop applications, native macOS integrations, real-time DSP audio pipelines, and local AI agent architectures.
-- 🌌 Shipping **[Vantage](https://github.com/satiricalguru/Vantage)** — a high-performance native live & video wallpaper engine for macOS with lock screen sync and native screen saver integration.
-- 🤖 Building **[Forge](https://github.com/satiricalguru/Forge)** — a local-first, privacy-respecting AI IDE forked from VS Code optimized for offline local LLM engines (Ollama, LM Studio, llama.cpp, vLLM).
-- 🔒 Creator of **[Synthid-remover](https://github.com/satiricalguru/Synthid-remover)** — 100% local pipeline removing AI watermarks, C2PA Content Credentials, and SynthID frequency signals directly on device.
-- 👻 Architecting **[Wraith](https://github.com/satiricalguru/Wraith)** — a grounding-first autonomous AI reverse-engineering co-pilot for Ghidra & Cutter with an 11-signal binary parity engine.
-- 🎙️ Deep in real-time voice & audio engineering — creator of **[Beatrice-voicechanger-windows](https://github.com/satiricalguru/Beatrice-voicechanger-windows)** (ultra-low latency Beatrice DSP VST3 engine), **[Beatrice-voicechanger-mac](https://github.com/satiricalguru/Beatrice-voicechanger-mac)** (10ms latency on Apple Silicon), and **[RVC-Voicechanger](https://github.com/satiricalguru/RVC-Voicechanger)** (Spotify Pedalboard DSP pipeline).
-- ⚡ Creating autonomous agent infrastructure — **[Agents-skills](https://github.com/satiricalguru/Agents-skills)** (curated autonomous engineering skills), **[Agent-Swarm](https://github.com/satiricalguru/Agent-Swarm)** (LLM concurrency stress-tester), **[Fast-Jev-Agents](https://github.com/satiricalguru/Fast-Jev-Agents)** (context compaction for coding agents), and **[Verdict](https://github.com/satiricalguru/Verdict)** (AI live web & code benchmark platform).
-- 🔍 Most projects start as *"let me just inspect this codebase"* and end as a full native rewrite with a shipped release.
+I build **local-first AI tools**, **native desktop apps** and **real-time audio software** — then take them apart to see exactly where they **break**.
 
-> 🎯 **2026 Focus** — Delivering low-latency local inference tooling, modular agent swarms, and fluid native desktop experiences.
+- 🌌 Most of what I make runs **on your machine, not someone else's cloud**: private assistants, ~10 ms voice changers, live wallpaper engines, an AI code editor that sends nothing home.
+- 🩸 Away from shipping I play **CTFs**, read binaries in **Ghidra**, and build tools that show what software is quietly doing behind your back.
+- 🔍 Most projects start as *"let me just inspect this codebase"* and end as a full rewrite with a shipped release.
 
----
-
-## 🚀 The journey so far
-
-```mermaid
-timeline
-    title Building AI, Audio & Desktop Systems Infrastructure
-    Native macOS & Desktop : Vantage Live Wallpapers : Contour 4K Studio : Kiln Asset Forge : Ai-Nexus Native
-    Real-Time Audio DSP : Beatrice Voice Changer (10ms) : RVC Pedalboard Engine : VST3 Sound Pipelines
-    Local LLMs & Benchmarks : Forge Local IDE : Verdict Benchmark : Local-Bench Suite : Local-Mind
-    Agents & AI Privacy : SynthID & C2PA Stripper : Wraith Reverse-Eng : Agents-skills Suite : Fast-Jev-Agents
-```
-
----
-
-## 📊 Impact, live-counted
+<br clear="right">
 
 <div align="center">
-
-<a href="https://github.com/satiricalguru/Beatrice-voicechanger-windows"><img src="https://img.shields.io/github/stars/satiricalguru/Beatrice-voicechanger-windows?style=for-the-badge&logo=github&labelColor=0f141c&color=e0af68&label=BEATRICE-WINDOWS"></a>
-<a href="https://github.com/satiricalguru/RVC-Voicechanger"><img src="https://img.shields.io/github/stars/satiricalguru/RVC-Voicechanger?style=for-the-badge&logo=github&labelColor=0f141c&color=9ece6a&label=RVC"></a>
-<a href="https://github.com/satiricalguru/Synthid-remover"><img src="https://img.shields.io/github/stars/satiricalguru/Synthid-remover?style=for-the-badge&logo=github&labelColor=0f141c&color=ff9e64&label=SYNTHID-REMOVER"></a>
-<a href="https://github.com/satiricalguru/Jarvis"><img src="https://img.shields.io/github/stars/satiricalguru/Jarvis?style=for-the-badge&logo=github&labelColor=0f141c&color=50fa7b&label=JARVIS"></a>
-<a href="https://github.com/satiricalguru/Vantage"><img src="https://img.shields.io/github/stars/satiricalguru/Vantage?style=for-the-badge&logo=github&labelColor=0f141c&color=7dcfff&label=VANTAGE"></a>
-<a href="https://github.com/satiricalguru/Beatrice-voicechanger-mac"><img src="https://img.shields.io/github/stars/satiricalguru/Beatrice-voicechanger-mac?style=for-the-badge&logo=github&labelColor=0f141c&color=7aa2f7&label=BEATRICE-MAC"></a>
-<a href="https://github.com/satiricalguru/Agents-skills"><img src="https://img.shields.io/github/stars/satiricalguru/Agents-skills?style=for-the-badge&logo=github&labelColor=0f141c&color=73daca&label=AGENTS-SKILLS"></a>
-<a href="https://github.com/satiricalguru/ShopBot"><img src="https://img.shields.io/github/stars/satiricalguru/ShopBot?style=for-the-badge&logo=github&labelColor=0f141c&color=f7768e&label=SHOPBOT"></a>
-<a href="https://github.com/satiricalguru/Forge"><img src="https://img.shields.io/github/stars/satiricalguru/Forge?style=for-the-badge&logo=github&labelColor=0f141c&color=bb9af7&label=FORGE"></a>
-<a href="https://github.com/satiricalguru/Local-Mind"><img src="https://img.shields.io/github/stars/satiricalguru/Local-Mind?style=for-the-badge&logo=github&labelColor=0f141c&color=2ac3de&label=LOCAL-MIND"></a>
-<a href="https://github.com/satiricalguru/PersonalAssistant"><img src="https://img.shields.io/github/stars/satiricalguru/PersonalAssistant?style=for-the-badge&logo=github&labelColor=0f141c&color=e0af68&label=PERSONAL-ASSISTANT"></a>
-<a href="https://github.com/satiricalguru/Verdict"><img src="https://img.shields.io/github/stars/satiricalguru/Verdict?style=for-the-badge&logo=github&labelColor=0f141c&color=2ac3de&label=VERDICT"></a>
-<a href="https://github.com/satiricalguru/Agent-Swarm"><img src="https://img.shields.io/github/stars/satiricalguru/Agent-Swarm?style=for-the-badge&logo=github&labelColor=0f141c&color=ff9e64&label=AGENT-SWARM"></a>
-<a href="https://github.com/satiricalguru/Origin"><img src="https://img.shields.io/github/stars/satiricalguru/Origin?style=for-the-badge&logo=github&labelColor=0f141c&color=f7768e&label=ORIGIN"></a>
-<a href="https://github.com/satiricalguru/Wraith"><img src="https://img.shields.io/github/stars/satiricalguru/Wraith?style=for-the-badge&logo=github&labelColor=0f141c&color=bb9af7&label=WRAITH"></a>
-
+<img src="assets/countdown.svg" width="100%" alt="1000 minus 7, counting down">
 </div>
 
----
+<details>
+<summary>🩸 <b>Quick question… what's 1000 − 7?</b> &nbsp;<sub>(click to answer)</sub></summary>
+<br>
 
-## 🧱 Featured builds
+> **993.** &nbsp;And 986. And 979. And 972…
+>
+> It never really stops. Neither do I — **52 public repos** and counting. Keep subtracting below. ↓
+
+</details>
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+## 作 &nbsp;Pick a flower
+
+<sub>Every lily opens a different path. Click one.</sub>
+
+<details>
+<summary>🌌 &nbsp;<b>機 · Native &amp; desktop</b> — software that feels at home on the system</summary>
+<br>
+
+| Project | What it is |
+|:--|:--|
+| [**Vantage**](https://github.com/satiricalguru/Vantage) | High-performance live wallpapers for macOS, beneath your desktop icons |
+| [**Contour**](https://github.com/satiricalguru/Contour) | Generative 4K wallpaper studio for macOS, iOS &amp; iPadOS |
+| [**Kiln**](https://github.com/satiricalguru/Kiln) | Privacy-first local-AI asset forge &amp; universal file converter |
+| [**End4-mac**](https://github.com/satiricalguru/End4-mac) | illogical-impulse reimagined natively with SwiftUI &amp; AppKit |
+| [**Ai-Nexus**](https://github.com/satiricalguru/Ai-Nexus) | Native SwiftUI AI chat for iOS &amp; macOS, cloud and local models |
+| [**Pocket-Music**](https://github.com/satiricalguru/Pocket-Music) · [**Mac-gesture-control**](https://github.com/satiricalguru/Mac-gesture-control) | A Spotify-style local player · touchless macOS control with computer vision |
+
+</details>
+
+<details>
+<summary>🤖 &nbsp;<b>智 · Local AI &amp; agents</b> — private intelligence on your own hardware</summary>
+<br>
+
+| Project | What it is |
+|:--|:--|
+| [**Forge**](https://github.com/satiricalguru/Forge) | Offline AI IDE forked from VS Code, for Ollama, llama.cpp and vLLM |
+| [**OpenBot**](https://github.com/satiricalguru/OpenBot) | Open-source AI teammates, each with its own sandboxed computer |
+| [**Agents-skills**](https://github.com/satiricalguru/Agents-skills) | Curated agentic skills that extend Claude into an engineering companion |
+| [**Verdict**](https://github.com/satiricalguru/Verdict) · [**Local-Bench**](https://github.com/satiricalguru/Local-Bench) | Benchmark 100+ LLMs on live web apps · profile local models offline |
+| [**Agent-Swarm**](https://github.com/satiricalguru/Agent-Swarm) · [**Fast-Jev-Agents**](https://github.com/satiricalguru/Fast-Jev-Agents) | Concurrency stress-testing · verbatim context compaction for coding agents |
+| [**Jarvis**](https://github.com/satiricalguru/Jarvis) · [**Local-Mind**](https://github.com/satiricalguru/Local-Mind) · [**Origin**](https://github.com/satiricalguru/Origin) | Holographic voice assistant · offline AI companion · self-hosted AI workspace |
+
+</details>
+
+<details>
+<summary>🎙️ &nbsp;<b>響 · Real-time audio</b> — voice conversion fast enough to talk through</summary>
+<br>
+
+| Project | What it is |
+|:--|:--|
+| [**Beatrice (Windows)**](https://github.com/satiricalguru/Beatrice-voicechanger-windows) · [**Beatrice (Mac)**](https://github.com/satiricalguru/Beatrice-voicechanger-mac) | Real-time AI voice changer on the Beatrice VST3 engine, ~10 ms on Apple Silicon |
+| [**RVC-Voicechanger**](https://github.com/satiricalguru/RVC-Voicechanger) | Retrieval-based voice conversion with a Spotify Pedalboard DSP chain |
+| [**Vcclient-voicechanger**](https://github.com/satiricalguru/Vcclient-voicechanger) | DirectML-accelerated voice changer with a glassmorphic UI |
+| [**EarPods-ANC-Adapter**](https://github.com/satiricalguru/EarPods-ANC-Adapter) · [**Podium**](https://github.com/satiricalguru/Podium) | Inline USB-C ANC hardware · a 3D public-speaking rehearsal studio |
+
+</details>
+
+<details>
+<summary>🔒 &nbsp;<b>破 · Security &amp; reversing</b> — seeing what software really does</summary>
+<br>
+
+| Project | What it is |
+|:--|:--|
+| [**Synthid-remover**](https://github.com/satiricalguru/Synthid-remover) | Strip AI watermarks, C2PA credentials and SynthID signals, 100% locally |
+| [**Wraith**](https://github.com/satiricalguru/Wraith) | Grounding-first AI reverse-engineering co-pilot for Ghidra &amp; Cutter |
+| [**Teardown**](https://github.com/satiricalguru/Teardown) | Extracts design systems from UI screenshots (CV + LLM) |
+| [**DriveVault**](https://github.com/satiricalguru/DriveVault) · [**Proofline**](https://github.com/satiricalguru/Proofline-hackblox) | Client-side Google Drive forensics · wallet-bound verifiable credentials |
+| [**ShopBot**](https://github.com/satiricalguru/ShopBot) · [**ScrollTap**](https://github.com/satiricalguru/ScrollTap) | Flipkart/Amazon stock alerts · precision auto-scroll &amp; auto-tap extension |
+
+</details>
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+## 華 &nbsp;Featured blooms
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="50%">
-<a href="https://github.com/satiricalguru/Vantage">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://socialify.git.ci/satiricalguru/Vantage/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://socialify.git.ci/satiricalguru/Vantage/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Light">
-    <img alt="Vantage" src="https://socialify.git.ci/satiricalguru/Vantage/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Light" width="100%">
-  </picture>
-</a>
+<a href="https://github.com/satiricalguru/Vantage"><img alt="Vantage" src="https://socialify.git.ci/satiricalguru/Vantage/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Charlie%20Brown&stargazers=1&theme=Dark" width="100%"></a>
 </td>
 <td align="center" width="50%">
-<a href="https://github.com/satiricalguru/Forge">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://socialify.git.ci/satiricalguru/Forge/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://socialify.git.ci/satiricalguru/Forge/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Light">
-    <img alt="Forge" src="https://socialify.git.ci/satiricalguru/Forge/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Light" width="100%">
-  </picture>
-</a>
+<a href="https://github.com/satiricalguru/Forge"><img alt="Forge" src="https://socialify.git.ci/satiricalguru/Forge/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Charlie%20Brown&stargazers=1&theme=Dark" width="100%"></a>
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
-<a href="https://github.com/satiricalguru/Synthid-remover">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://socialify.git.ci/satiricalguru/Synthid-remover/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://socialify.git.ci/satiricalguru/Synthid-remover/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Light">
-    <img alt="Synthid-remover" src="https://socialify.git.ci/satiricalguru/Synthid-remover/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Light" width="100%">
-  </picture>
-</a>
+<a href="https://github.com/satiricalguru/Synthid-remover"><img alt="Synthid-remover" src="https://socialify.git.ci/satiricalguru/Synthid-remover/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Charlie%20Brown&stargazers=1&theme=Dark" width="100%"></a>
 </td>
 <td align="center" width="50%">
-<a href="https://github.com/satiricalguru/Beatrice-voicechanger-windows">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://socialify.git.ci/satiricalguru/Beatrice-voicechanger-windows/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://socialify.git.ci/satiricalguru/Beatrice-voicechanger-windows/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Light">
-    <img alt="Beatrice-voicechanger-windows" src="https://socialify.git.ci/satiricalguru/Beatrice-voicechanger-windows/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Light" width="100%">
-  </picture>
-</a>
+<a href="https://github.com/satiricalguru/Beatrice-voicechanger-windows"><img alt="Beatrice" src="https://socialify.git.ci/satiricalguru/Beatrice-voicechanger-windows/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Charlie%20Brown&stargazers=1&theme=Dark" width="100%"></a>
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
-<a href="https://github.com/satiricalguru/RVC-Voicechanger">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://socialify.git.ci/satiricalguru/RVC-Voicechanger/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://socialify.git.ci/satiricalguru/RVC-Voicechanger/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Light">
-    <img alt="RVC-Voicechanger" src="https://socialify.git.ci/satiricalguru/RVC-Voicechanger/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Light" width="100%">
-  </picture>
-</a>
+<a href="https://github.com/satiricalguru/RVC-Voicechanger"><img alt="RVC-Voicechanger" src="https://socialify.git.ci/satiricalguru/RVC-Voicechanger/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Charlie%20Brown&stargazers=1&theme=Dark" width="100%"></a>
 </td>
 <td align="center" width="50%">
-<a href="https://github.com/satiricalguru/Jarvis">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://socialify.git.ci/satiricalguru/Jarvis/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://socialify.git.ci/satiricalguru/Jarvis/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Light">
-    <img alt="Jarvis" src="https://socialify.git.ci/satiricalguru/Jarvis/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Light" width="100%">
-  </picture>
-</a>
+<a href="https://github.com/satiricalguru/Jarvis"><img alt="Jarvis" src="https://socialify.git.ci/satiricalguru/Jarvis/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Charlie%20Brown&stargazers=1&theme=Dark" width="100%"></a>
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
-<a href="https://github.com/satiricalguru/Wraith">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://socialify.git.ci/satiricalguru/Wraith/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://socialify.git.ci/satiricalguru/Wraith/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Light">
-    <img alt="Wraith" src="https://socialify.git.ci/satiricalguru/Wraith/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Light" width="100%">
-  </picture>
-</a>
+<a href="https://github.com/satiricalguru/Wraith"><img alt="Wraith" src="https://socialify.git.ci/satiricalguru/Wraith/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Charlie%20Brown&stargazers=1&theme=Dark" width="100%"></a>
 </td>
 <td align="center" width="50%">
-<a href="https://github.com/satiricalguru/Agents-skills">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://socialify.git.ci/satiricalguru/Agents-skills/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://socialify.git.ci/satiricalguru/Agents-skills/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Light">
-    <img alt="Agents-skills" src="https://socialify.git.ci/satiricalguru/Agents-skills/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Light" width="100%">
-  </picture>
-</a>
+<a href="https://github.com/satiricalguru/Agents-skills"><img alt="Agents-skills" src="https://socialify.git.ci/satiricalguru/Agents-skills/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Charlie%20Brown&stargazers=1&theme=Dark" width="100%"></a>
 </td>
 </tr>
 </table>
 
-<details>
-<summary>🗂️ <b>Complete Project Matrix & Ecosystem Architecture</b></summary>
-<br>
+<sub>⭐ Live star counts — every badge is a link</sub><br><br>
 
-| Domain | Key Projects | Focus & Technologies |
-| :--- | :--- | :--- |
-| 🌌 **Native macOS & Desktop Systems** | [Vantage](https://github.com/satiricalguru/Vantage) · [Contour](https://github.com/satiricalguru/Contour) · [Kiln](https://github.com/satiricalguru/Kiln) · [End4-mac](https://github.com/satiricalguru/End4-mac) · [Ai-Nexus](https://github.com/satiricalguru/Ai-Nexus) · [Pocket-Music](https://github.com/satiricalguru/Pocket-Music) · [Mac-gesture-control](https://github.com/satiricalguru/Mac-gesture-control) | High-performance native video wallpapers, 4K artwork engines, system lock screen sync, native macOS screen saver plugins, and SwiftUI desktop shells |
-| 🤖 **Local AI, Benchmarks & Agent Infrastructure** | [Forge](https://github.com/satiricalguru/Forge) · [Wraith](https://github.com/satiricalguru/Wraith) · [Agents-skills](https://github.com/satiricalguru/Agents-skills) · [Verdict](https://github.com/satiricalguru/Verdict) · [Agent-Swarm](https://github.com/satiricalguru/Agent-Swarm) · [Fast-Jev-Agents](https://github.com/satiricalguru/Fast-Jev-Agents) · [Local-Bench](https://github.com/satiricalguru/Local-Bench) · [Local-Mind](https://github.com/satiricalguru/Local-Mind) · [Teardown](https://github.com/satiricalguru/Teardown) · [Aperture](https://github.com/satiricalguru/Aperture) · [Nuzzle-pets](https://github.com/satiricalguru/Nuzzle-pets) | Local-first IDEs, autonomous reverse-engineering co-pilots, agentic skill suites, live web/code arenas, context compaction, and concurrency stress-testing |
-| 🎙️ **Real-Time Audio, DSP & Voice AI** | [Beatrice-voicechanger-windows](https://github.com/satiricalguru/Beatrice-voicechanger-windows) · [Beatrice-voicechanger-mac](https://github.com/satiricalguru/Beatrice-voicechanger-mac) · [RVC-Voicechanger](https://github.com/satiricalguru/RVC-Voicechanger) · [Vcclient-voicechanger](https://github.com/satiricalguru/Vcclient-voicechanger) · [PersonalAssistant](https://github.com/satiricalguru/PersonalAssistant) · [Jarvis](https://github.com/satiricalguru/Jarvis) · [EarPods-ANC-Adapter](https://github.com/satiricalguru/EarPods-ANC-Adapter) · [Podium](https://github.com/satiricalguru/Podium) | 10ms ultra-low latency voice conversion on Apple Silicon, Spotify Pedalboard DSP routing, Beatrice VST3 engines, active noise cancellation, and Three.js 3D sci-fi butler |
-| 🔒 **Security, Privacy & Reverse Engineering** | [Synthid-remover](https://github.com/satiricalguru/Synthid-remover) · [DriveVault](https://github.com/satiricalguru/DriveVault) · [Mobileforce-extension](https://github.com/satiricalguru/Mobileforce-extension) · [ScrollTap](https://github.com/satiricalguru/ScrollTap) · [ShopBot](https://github.com/satiricalguru/ShopBot) · [Proofline-hackblox](https://github.com/satiricalguru/Proofline-hackblox) | Local AI watermark & C2PA content credential stripping, client-side Google Drive forensic auditing, wallet-bound verifiable credentials, and network header spoofing tools |
-
-</details>
+<a href="https://github.com/satiricalguru/Beatrice-voicechanger-windows"><img src="https://img.shields.io/github/stars/satiricalguru/Beatrice-voicechanger-windows?style=flat-square&logo=github&labelColor=060505&color=c41226&label=BEATRICE-VOICECHANGER-WINDOWS"></a>
+<a href="https://github.com/satiricalguru/RVC-Voicechanger"><img src="https://img.shields.io/github/stars/satiricalguru/RVC-Voicechanger?style=flat-square&logo=github&labelColor=060505&color=c41226&label=RVC-VOICECHANGER"></a>
+<a href="https://github.com/satiricalguru/Synthid-remover"><img src="https://img.shields.io/github/stars/satiricalguru/Synthid-remover?style=flat-square&logo=github&labelColor=060505&color=c41226&label=SYNTHID-REMOVER"></a>
+<a href="https://github.com/satiricalguru/Jarvis"><img src="https://img.shields.io/github/stars/satiricalguru/Jarvis?style=flat-square&logo=github&labelColor=060505&color=c41226&label=JARVIS"></a>
+<a href="https://github.com/satiricalguru/Vantage"><img src="https://img.shields.io/github/stars/satiricalguru/Vantage?style=flat-square&logo=github&labelColor=060505&color=c41226&label=VANTAGE"></a>
+<a href="https://github.com/satiricalguru/Beatrice-voicechanger-mac"><img src="https://img.shields.io/github/stars/satiricalguru/Beatrice-voicechanger-mac?style=flat-square&logo=github&labelColor=060505&color=c41226&label=BEATRICE-VOICECHANGER-MAC"></a>
+<a href="https://github.com/satiricalguru/Agents-skills"><img src="https://img.shields.io/github/stars/satiricalguru/Agents-skills?style=flat-square&logo=github&labelColor=060505&color=c41226&label=AGENTS-SKILLS"></a>
+<a href="https://github.com/satiricalguru/ShopBot"><img src="https://img.shields.io/github/stars/satiricalguru/ShopBot?style=flat-square&logo=github&labelColor=060505&color=c41226&label=SHOPBOT"></a>
+<a href="https://github.com/satiricalguru/Forge"><img src="https://img.shields.io/github/stars/satiricalguru/Forge?style=flat-square&logo=github&labelColor=060505&color=c41226&label=FORGE"></a>
+<a href="https://github.com/satiricalguru/Local-Mind"><img src="https://img.shields.io/github/stars/satiricalguru/Local-Mind?style=flat-square&logo=github&labelColor=060505&color=c41226&label=LOCAL-MIND"></a>
+<a href="https://github.com/satiricalguru/Verdict"><img src="https://img.shields.io/github/stars/satiricalguru/Verdict?style=flat-square&logo=github&labelColor=060505&color=c41226&label=VERDICT"></a>
+<a href="https://github.com/satiricalguru/Agent-Swarm"><img src="https://img.shields.io/github/stars/satiricalguru/Agent-Swarm?style=flat-square&logo=github&labelColor=060505&color=c41226&label=AGENT-SWARM"></a>
+<a href="https://github.com/satiricalguru/Origin"><img src="https://img.shields.io/github/stars/satiricalguru/Origin?style=flat-square&logo=github&labelColor=060505&color=c41226&label=ORIGIN"></a>
+<a href="https://github.com/satiricalguru/Wraith"><img src="https://img.shields.io/github/stars/satiricalguru/Wraith?style=flat-square&logo=github&labelColor=060505&color=c41226&label=WRAITH"></a>
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="">
 
-## 🧰 Tech Stack & Arsenal
+## 技 &nbsp;Arsenal
 
 <div align="center">
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,ts,js,swift,rust,cpp,c,react,nextjs,electron&perline=10" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,ts,js,swift,rust,cpp,c,react,nextjs,electron&perline=10&theme=dark" /></a>
 <br>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=fastapi,pytorch,docker,sqlite,html,css,tailwind,git,github,vscode&perline=10" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=fastapi,pytorch,threejs,docker,sqlite,tailwind,vite,git,github,vscode&perline=10&theme=dark" /></a>
 
 <br><br>
 
-<b>⚡ AI Coding Agents & Autonomous Environments</b>
+<sub><b>⚡ THE AGENTS I WORK WITH</b></sub>
 <br><br>
 
 <p align="center">
@@ -219,11 +211,22 @@ timeline
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="">
 
-## 🏆 GitHub Achievements
+## 録 &nbsp;Records
 
 <div align="center">
+
+<a href="https://github.com/satiricalguru"><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=satiricalguru&show_icons=true&hide_border=true&bg_color=060505&title_color=e01b34&text_color=b9b1a8&icon_color=e01b34&ring_color=c41226&rank_icon=github" height="170" alt="GitHub stats"></a>
+<a href="https://github.com/satiricalguru"><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=satiricalguru&layout=compact&hide_border=true&bg_color=060505&title_color=e01b34&text_color=b9b1a8" height="170" alt="Top languages"></a>
+
+<a href="https://github.com/satiricalguru"><img src="https://streak-stats.demolab.com/?user=satiricalguru&hide_border=true&background=060505&stroke=2a1517&ring=C41226&fire=E01B34&currStreakNum=EDE7DF&currStreakLabel=E01B34&sideNums=EDE7DF&sideLabels=B9B1A8&dates=7D756E" width="70%" alt="Streak"></a>
+
+<a href="https://github.com/satiricalguru"><img src="https://github-readme-activity-graph.vercel.app/graph?username=satiricalguru&bg_color=060505&color=b9b1a8&line=c41226&point=ede7df&area=true&area_color=c41226&hide_border=true&custom_title=Blood%20pressure%20%C2%B7%20contribution%20activity" width="100%" alt="Activity graph"></a>
+
+<details>
+<summary>🏆 <b>Achievements unlocked</b></summary>
+<br>
 
 <table border="0">
 <tr>
@@ -272,54 +275,35 @@ timeline
 </tr>
 </table>
 
-</div>
+</details>
 
----
-
-## 📈 Stats & Activity
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-<a href="https://github.com/satiricalguru">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=satiricalguru&show_icons=true&theme=tokyo-night&hide_border=true&bg_color=0f141c&title_color=7dcfff&text_color=9aa5ce&icon_color=7aa2f7" width="100%" alt="GitHub Stats">
-</a>
-</td>
-<td align="center" width="50%">
-<a href="https://github.com/satiricalguru">
-  <img src="https://streak-stats.demolab.com/?user=satiricalguru&theme=tokyo-night&hide_border=true&background=0F141C&stroke=212D3B&ring=7DCFFF&fire=FF9E64&currStreakNum=7DCFFF&currStreakLabel=7DCFFF&sideNums=D6E3F2&sideLabels=9AA5CE&dates=7982A9" width="100%" alt="GitHub Streak">
-</a>
-</td>
-</tr>
-<tr>
-<td align="center" colspan="2">
-<a href="https://github.com/satiricalguru">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=satiricalguru&layout=compact&theme=tokyo-night&hide_border=true&bg_color=0f141c&title_color=7dcfff&text_color=9aa5ce" width="380" alt="Top Languages">
-</a>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/satiricalguru/satiricalguru/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/satiricalguru/satiricalguru/output/github-contribution-grid-snake.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/satiricalguru/satiricalguru/output/github-contribution-grid-snake.svg">
+  <img alt="A snake eating the contribution grid" src="https://raw.githubusercontent.com/satiricalguru/satiricalguru/output/github-contribution-grid-snake.svg">
 </picture>
+
+<sub>🐍 The snake eats a red trail through a year of commits.</sub>
+
+</div>
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+## 連 &nbsp;Say hello
+
+<div align="center">
+
+**Got something worth building?**
+
+<a href="mailto:jatinjio1212@gmail.com"><img src="https://img.shields.io/badge/jatinjio1212@gmail.com-c41226?style=for-the-badge&logo=gmail&logoColor=white&labelColor=060505"></a>
+<a href="https://satiricalguru.vercel.app/#contact"><img src="https://img.shields.io/badge/Portfolio-Contact-ede7df?style=for-the-badge&logo=vercel&logoColor=060505&labelColor=ede7df&color=060505"></a>
 
 <br><br>
 
-*"Building high-performance native software, advancing local AI privacy, and automating complex engineering workflows."*
+<a href="https://satiricalguru.vercel.app/"><img src="assets/higanbana-field.svg" width="100%" alt="A field of white spider lilies turning red"></a>
 
-<a href="https://github.com/satiricalguru"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:3c526b,50:212d3b,100:0f141c&height=130&section=footer" width="100%"></a>
+<sub>The flowers are drawn in code (<a href="scripts/higanbana.py">scripts/higanbana.py</a>) — they bloom white, bleed red, and start again. &nbsp;·&nbsp; 1000 − 7 = 993</sub>
 
 </div>
