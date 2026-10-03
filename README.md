@@ -181,33 +181,17 @@ I build **local-first AI tools**, **native desktop apps** and **real-time audio 
 
 <br><br>
 
-<sub><b>⚡ THE AGENTS I WORK WITH</b></sub>
+<sub><b>⚡ THE AGENTS I WORK WITH</b> — ranked by how often they're in my terminal</sub>
 <br><br>
 
-<p align="center">
-  <a href="https://antigravity.google" title="Google Antigravity IDE">
-    <img src="https://raw.githubusercontent.com/satiricalguru/satiricalguru/main/assets/icons/antigravity.png" width="50" height="50" alt="Google Antigravity IDE" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://opencode.ai" title="OpenCode">
-    <img src="https://raw.githubusercontent.com/satiricalguru/satiricalguru/main/assets/icons/opencode.png" width="50" height="50" alt="OpenCode" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://openai.com" title="OpenAI Codex">
-    <img src="https://raw.githubusercontent.com/satiricalguru/satiricalguru/main/assets/icons/codex.png" width="50" height="50" alt="OpenAI Codex" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://anthropic.com/claude" title="Claude">
-    <img src="https://raw.githubusercontent.com/satiricalguru/satiricalguru/main/assets/icons/claude.png" width="50" height="50" alt="Claude" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://antigravity.google"><img src="https://img.shields.io/badge/Google%20Antigravity-IDE-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0f141c" alt="Google Antigravity IDE" /></a>
-  <a href="https://opencode.ai"><img src="https://img.shields.io/badge/OpenCode-AI%20Agent-00DC82?style=for-the-badge&logo=terminal&logoColor=white&labelColor=0f141c" alt="OpenCode" /></a>
-  <a href="https://openai.com"><img src="https://img.shields.io/badge/OpenAI%20Codex-Coding%20Agent-00A67E?style=for-the-badge&logo=openai&logoColor=white&labelColor=0f141c" alt="OpenAI Codex" /></a>
-  <a href="https://anthropic.com/claude"><img src="https://img.shields.io/badge/Claude-Anthropic-D97757?style=for-the-badge&logo=claude&logoColor=white&labelColor=0f141c" alt="Claude" /></a>
-</p>
+<table>
+<tr>
+<td align="center" width="25%"><a href="https://claude.com/claude-code"><img src="https://raw.githubusercontent.com/satiricalguru/satiricalguru/main/assets/icons/claude.png" width="64" height="64" alt="Claude"></a><br><br><b>01 · Claude</b><br><sub>Anthropic — Lead engineer</sub><br><br><a href="https://claude.com/claude-code"><img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white&labelColor=060505&color=D97757" alt="Claude"></a></td>
+<td align="center" width="25%"><a href="https://openai.com/codex"><img src="https://raw.githubusercontent.com/satiricalguru/satiricalguru/main/assets/icons/codex.png" width="64" height="64" alt="Codex"></a><br><br><b>02 · Codex</b><br><sub>OpenAI — Coding agent</sub><br><br><a href="https://openai.com/codex"><img src="https://img.shields.io/badge/Codex-ede7df?style=flat-square&logo=openai&logoColor=060505&labelColor=060505&color=ede7df" alt="Codex"></a></td>
+<td align="center" width="25%"><a href="https://antigravity.google"><img src="https://raw.githubusercontent.com/satiricalguru/satiricalguru/main/assets/icons/antigravity.png" width="64" height="64" alt="Antigravity"></a><br><br><b>03 · Antigravity</b><br><sub>Google — Agentic IDE</sub><br><br><a href="https://antigravity.google"><img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=060505&color=4285F4" alt="Antigravity"></a></td>
+<td align="center" width="25%"><a href="https://opencode.ai"><img src="https://raw.githubusercontent.com/satiricalguru/satiricalguru/main/assets/icons/opencode.png" width="64" height="64" alt="OpenCode"></a><br><br><b>04 · OpenCode</b><br><sub>Open source — Terminal agent</sub><br><br><a href="https://opencode.ai"><img src="https://img.shields.io/badge/OpenCode-00DC82?style=flat-square&logo=gnubash&logoColor=white&labelColor=060505&color=00DC82" alt="OpenCode"></a></td>
+</tr>
+</table>
 
 </div>
 
@@ -221,8 +205,6 @@ I build **local-first AI tools**, **native desktop apps** and **real-time audio 
 <a href="https://github.com/satiricalguru"><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=satiricalguru&layout=compact&hide_border=true&bg_color=060505&title_color=e01b34&text_color=b9b1a8" height="170" alt="Top languages"></a>
 
 <a href="https://github.com/satiricalguru"><img src="https://streak-stats.demolab.com/?user=satiricalguru&hide_border=true&background=060505&stroke=2a1517&ring=C41226&fire=E01B34&currStreakNum=EDE7DF&currStreakLabel=E01B34&sideNums=EDE7DF&sideLabels=B9B1A8&dates=7D756E" width="70%" alt="Streak"></a>
-
-<a href="https://github.com/satiricalguru"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satiricalguru&theme=radical" width="100%" alt="Contribution profile"></a>
 
 <details>
 <summary>🏆 <b>Achievements unlocked</b></summary>
