@@ -222,7 +222,7 @@ I build **local-first AI tools**, **native desktop apps** and **real-time audio 
 
 <a href="https://github.com/satiricalguru"><img src="https://streak-stats.demolab.com/?user=satiricalguru&hide_border=true&background=060505&stroke=2a1517&ring=C41226&fire=E01B34&currStreakNum=EDE7DF&currStreakLabel=E01B34&sideNums=EDE7DF&sideLabels=B9B1A8&dates=7D756E" width="70%" alt="Streak"></a>
 
-<a href="https://github.com/satiricalguru"><img src="https://github-readme-activity-graph.vercel.app/graph?username=satiricalguru&bg_color=060505&color=b9b1a8&line=c41226&point=ede7df&area=true&area_color=c41226&hide_border=true&custom_title=Blood%20pressure%20%C2%B7%20contribution%20activity" width="100%" alt="Activity graph"></a>
+<a href="https://github.com/satiricalguru"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satiricalguru&theme=radical" width="100%" alt="Contribution profile"></a>
 
 <details>
 <summary>🏆 <b>Achievements unlocked</b></summary>
