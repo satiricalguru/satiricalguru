@@ -9,7 +9,7 @@
 </p>
 <p>
 <a href="https://github.com/satiricalguru?tab=followers"><img src="https://img.shields.io/github/followers/satiricalguru?style=flat-square&logo=github&labelColor=060505&color=c41226&label=followers"></a>
-<a href="https://github.com/satiricalguru"><img src="https://komarev.com/ghpvc/?username=satiricalguru&style=flat-square&color=c41226&label=souls+passed+by"></a>
+<a href="https://github.com/satiricalguru"><img src="https://komarev.com/ghpvc/?username=satiricalguru&label=souls+passed+by&color=c41226&style=flat-square"></a>
 <a href="https://linkedin.com/in/jatin-pandey-66328141a"><img src="https://img.shields.io/badge/LinkedIn-Jatin_Pandey-ede7df?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2VkZTdkZiI+PHBhdGggZD0iTTE5IDBoLTE0Yy0yLjc2MSAwLTUgMi4yMzktNSA1djE0YzAgMi43NjEgMi4yMzkgNSA1IDVoMTRjMi43NjIgMCA1LTIuMjM5IDUtNXYtMTRjMC0yLjc2MS0yLjIzOC01LTUtNXptLTExIDE5aC0zdi0xMWgzdjExem0tMS41LTEyLjI2OGMtLjk2NiAwLTEuNzUtLjc5LTEuNzUtMS43NjRzLjc4NC0xLjc2NCAxLjc1LTEuNzY0IDEuNzUuNzkgMS43NSAxLjc2NC0uNzgzIDEuNzY0LTEuNzUgMS43NjR6bTEzLjUgMTIuMjY4aC0zdi01LjYwNGMwLTMuMzY4LTQtMy4xMTMtNCAwdjUuNjA0aC0zdi0xMWgzdjEuNzY1YzEuMzk2LTIuNTg2IDctMi43NzcgNyAyLjQ3NnY2Ljc1OXoiLz48L3N2Zz4=&labelColor=060505"></a>
 <a href="https://x.com/JayDevSG"><img src="https://img.shields.io/badge/X-@JayDevSG-ede7df?style=flat-square&logo=x&logoColor=ede7df&labelColor=060505"></a>
 <a href="mailto:jatinjio1212@gmail.com"><img src="https://img.shields.io/badge/Mail-jatinjio1212-ede7df?style=flat-square&logo=gmail&logoColor=ede7df&labelColor=060505"></a>
