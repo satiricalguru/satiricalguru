@@ -42,7 +42,7 @@ I build **local-first AI tools**, **native desktop apps** and **real-time audio 
 
 > **993.** &nbsp;And 986. And 979. And 972…
 >
-> It never really stops. Neither do I — **52 public repos** and counting. Keep subtracting below. ↓
+> It never really stops. Neither do I — **63 public repos** and counting. Keep subtracting below. ↓
 
 </details>
 
@@ -60,6 +60,7 @@ I build **local-first AI tools**, **native desktop apps** and **real-time audio 
 |:--|:--|
 | [**Vantage**](https://github.com/satiricalguru/Vantage) | High-performance live wallpapers for macOS, beneath your desktop icons |
 | [**Contour**](https://github.com/satiricalguru/Contour) | Generative 4K wallpaper studio for macOS, iOS &amp; iPadOS |
+| [**MangaDock**](https://github.com/satiricalguru/MangaDock) | Free, ad-free, open-source reader for manga, manhwa &amp; manhua |
 | [**Kiln**](https://github.com/satiricalguru/Kiln) | Privacy-first local-AI asset forge &amp; universal file converter |
 | [**End4-mac**](https://github.com/satiricalguru/End4-mac) | illogical-impulse reimagined natively with SwiftUI &amp; AppKit |
 | [**Ai-Nexus**](https://github.com/satiricalguru/Ai-Nexus) | Native SwiftUI AI chat for iOS &amp; macOS, cloud and local models |
@@ -75,6 +76,9 @@ I build **local-first AI tools**, **native desktop apps** and **real-time audio 
 |:--|:--|
 | [**Forge**](https://github.com/satiricalguru/Forge) | Offline AI IDE forked from VS Code, for Ollama, llama.cpp and vLLM |
 | [**OpenBot**](https://github.com/satiricalguru/OpenBot) | Open-source AI teammates, each with its own sandboxed computer |
+| [**Tether**](https://github.com/satiricalguru/Tether) · [**Opencode-bridge**](https://github.com/satiricalguru/Opencode-bridge) | Local-model browser copilot with computer use · free OpenCode, Ollama &amp; OpenRouter models inside Claude Desktop and Codex |
+| [**FloodSetu**](https://github.com/satiricalguru/FloodSetu) · [**Github-Autonomous-Agent**](https://github.com/satiricalguru/Github-Autonomous-Agent) | Multi-agent flood rescue dispatch · autonomous issue triage and test-backed PRs |
+| [**Gemma-graph-nav**](https://github.com/satiricalguru/Gemma-graph-nav) | Should a small LLM navigate your code graph? A Gemma 4 study on a 16 GB Mac |
 | [**Agents-skills**](https://github.com/satiricalguru/Agents-skills) | Curated agentic skills that extend Claude into an engineering companion |
 | [**Verdict**](https://github.com/satiricalguru/Verdict) · [**Local-Bench**](https://github.com/satiricalguru/Local-Bench) | Benchmark 100+ LLMs on live web apps · profile local models offline |
 | [**Agent-Swarm**](https://github.com/satiricalguru/Agent-Swarm) · [**Fast-Jev-Agents**](https://github.com/satiricalguru/Fast-Jev-Agents) | Concurrency stress-testing · verbatim context compaction for coding agents |
@@ -89,6 +93,7 @@ I build **local-first AI tools**, **native desktop apps** and **real-time audio 
 | Project | What it is |
 |:--|:--|
 | [**Beatrice (Windows)**](https://github.com/satiricalguru/Beatrice-voicechanger-windows) · [**Beatrice (Mac)**](https://github.com/satiricalguru/Beatrice-voicechanger-mac) | Real-time AI voice changer on the Beatrice VST3 engine, ~10 ms on Apple Silicon |
+| [**Aurora-Voicechanger**](https://github.com/satiricalguru/Aurora-Voicechanger) | Ultra-low-latency macOS voice changer: anime and realistic voices, 50 effects, WebGL UI |
 | [**RVC-Voicechanger**](https://github.com/satiricalguru/RVC-Voicechanger) | Retrieval-based voice conversion with a Spotify Pedalboard DSP chain |
 | [**Vcclient-voicechanger**](https://github.com/satiricalguru/Vcclient-voicechanger) | DirectML-accelerated voice changer with a glassmorphic UI |
 | [**EarPods-ANC-Adapter**](https://github.com/satiricalguru/EarPods-ANC-Adapter) · [**Podium**](https://github.com/satiricalguru/Podium) | Inline USB-C ANC hardware · a 3D public-speaking rehearsal studio |
