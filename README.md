@@ -14,6 +14,7 @@
 <a href="https://x.com/JayDevSG"><img src="https://img.shields.io/badge/X-@JayDevSG-ede7df?style=flat-square&logo=x&logoColor=ede7df&labelColor=060505"></a>
 <a href="mailto:jatinjio1212@gmail.com"><img src="https://img.shields.io/badge/Mail-jatinjio1212-ede7df?style=flat-square&logo=gmail&logoColor=ede7df&labelColor=060505"></a>
 <img src="https://img.shields.io/badge/Open_to-work-c41226?style=flat-square&labelColor=060505">
+<a href="https://github.com/sponsors/satiricalguru"><img src="https://img.shields.io/badge/Sponsor-%E2%99%A5-ea4aaa?style=flat-square&logo=github-sponsors&logoColor=white&labelColor=060505"></a>
 </p>
 
 </div>
@@ -286,6 +287,7 @@ I build **local-first AI tools**, **native desktop apps** and **real-time audio 
 
 <a href="mailto:jatinjio1212@gmail.com"><img src="https://img.shields.io/badge/jatinjio1212@gmail.com-c41226?style=for-the-badge&logo=gmail&logoColor=white&labelColor=060505"></a>
 <a href="https://satiricalguru.vercel.app/#contact"><img src="https://img.shields.io/badge/Portfolio-Contact-ede7df?style=for-the-badge&logo=vercel&logoColor=060505&labelColor=ede7df&color=060505"></a>
+<a href="https://github.com/sponsors/satiricalguru"><img src="https://img.shields.io/badge/Sponsor-%E2%99%A5-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white&labelColor=060505"></a>
 
 <br><br>
 
